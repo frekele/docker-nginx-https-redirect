@@ -8,5 +8,5 @@ ADD rootfs /
 # Print default.conf to see all config.
 RUN cat /etc/nginx/conf.d/default.conf
 
-#Open port 80 for health_check.
-EXPOSE 80
+#Open port 81 for health_check.
+EXPOSE 80 81
