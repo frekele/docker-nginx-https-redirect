@@ -1,0 +1,5 @@
+.idea
+.gitignore
+LICENSE
+README.md
+docker-nginx-https-redirect.iml
