@@ -1,4 +1,4 @@
-FROM frekele/nginx:1
+FROM frekele/nginx:1-alpine
 
 MAINTAINER frekele <leandro.freitas@softdevelop.com.br>
 
