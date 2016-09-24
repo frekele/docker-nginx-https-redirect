@@ -1,1 +1,1 @@
-docker run --rm --name nginx-https-redirect -p 80:80 freitasul/nginx-https-redirect
+docker run --rm --name nginx-https-redirect -p 80:80 frekele/nginx-https-redirect
