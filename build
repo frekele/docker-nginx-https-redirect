@@ -1,1 +1,1 @@
-docker build -t freitasul/nginx-https-redirect .
+docker build -t frekele/nginx-https-redirect .
